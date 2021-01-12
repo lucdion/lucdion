@@ -3,7 +3,7 @@
 
 [<img src="images/layoutbox-icon.png" width=50/>](https://github.com/layoutBox)
 
-Owner of the **[layoutBox](https://github.com/layoutBox)** organization. This organization includes all my open source projects related to the layout of views using Swift.
+Owner of the **[layoutBox](https://github.com/layoutBox)** organization. This organization includes all my open source projects that enables developpers to layout  views using Swift.
 
 | Project | Description | GitHub Stars
 | --- | --- | --- |
